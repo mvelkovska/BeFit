@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mmSxHDB+auD9CwfaSbmYQMN5mWB/lfK7gdkeCSfFR6X1R9+lS7HY+AnKDxdjr1nW1scO5F8GjYJcurUnN0i+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivica\\Desktop\\SEDC\\backEndCsharp\\backendAdvancedCHASOVI\\TryBeingFit_FirstPart\\TryBeingFit_FirstPart\\TryBeingFit_FirstPart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

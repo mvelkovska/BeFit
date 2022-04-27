@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOZL4j1APpJpqOPc0XGv8+1ixo8uY0KFtfb1rGy9nhJA/uqL1rD85vu6P/6oeNpyhKyPxve0NjP9kpkH8XNhgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivica\\Desktop\\SEDC\\backEndCsharp\\backendAdvancedCHASOVI\\TryBeingFit_Final\\TryBeingFit.Services\\TryBeingFit.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivica\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
